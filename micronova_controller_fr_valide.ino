@@ -1,3 +1,5 @@
+#include "connectmqtt.h"
+
 #define mqtt_server "192.168.1.87"
 #define mqtt_port 1883
 #define mqtt_topic "micronova"
