@@ -1,9 +1,4 @@
-#define mqtt_server "192.168.1.138"
-#define mqtt_port 1883
-#define mqtt_topic "micronova"
-#define mqtt_user "mqtt"
-#define mqtt_pass "cozwy5-nuhxoq-jihCuf"
-#define hydro_mode 0
+
 
 #include <SoftwareSerial.h>
 SoftwareSerial StoveSerial;
